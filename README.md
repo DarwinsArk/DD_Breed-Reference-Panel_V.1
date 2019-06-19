@@ -1,7 +1,9 @@
 # DD_Breed-Reference-Panel_V.1
-Breed reference panel V.1 used in the breed ancestry assignment pipeline for the Darwin's Dogs project
+This panel serves as reference for the breed ancestry assignment pipeline for the Darwin's Dogs project at [Darwin's Ark](https://github.com/DarwinsArk). The ancestry assignment code was written by [Linda Boettger](https://github.com/lindaboettger) (see [lindaboettger/ancestry_assignment](https://github.com/lindaboettger/ancestry_assignment)) and modified for usage in Darwin's Dogs by [Kathleen Morrill](https://github.com/tabbzi). The breed ancestry assignment pipeline infers global and local ancestry of domestic dogs from a reference panel of purebred genotypes and generates chromosome painting, bar, and pie plots.
 
 Version 1 contains 93 breeds with 12 dogs per breed and 148,737 SNP markers.
+
+_V.1 is the most current version used for Genomic Breed Mix results on the Darwin's Ark website; V.2.0 is in progress._
 
 ## Data Sources and Acknowledgments
 
