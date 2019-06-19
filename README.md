@@ -19,6 +19,6 @@ The RefPan.bed/.bim/.fam files contain all purebred dog genotypes with family ID
 
 These are phased .tped/.tfam files for 6 dogs per breed used as reference files by SupportMix in the breed ancestry assignment pipeline.
 
-## PHASE Dataset
+## PHASE Files
 
 This PLINK dataset is merged with the target dataset for phasing by EAGLE in the breed ancestry assignment pipeline.
